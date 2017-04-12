@@ -1,5 +1,5 @@
 #+TITLE: my enviroment configuration 
-[[[[file:img/flowers.img]]]]
+[[file:img/flowers.img]]
 * Table Of Contents                                       :TOC_4_gh:noexport:
  - [[#description][Description]]
  - [[#note][Note]]
