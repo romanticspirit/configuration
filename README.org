@@ -1,6 +1,9 @@
 #+TITLE: my enviroment configuration 
-[[file:img/flowers.img][flower]]
-#+OPTIONS: toc:2    
+[[[[file:img/flowers.img]]]]
+* Table Of Contents                                       :TOC_4_gh:noexport:
+ - [[#description][Description]]
+ - [[#note][Note]]
+
 * Description 
 contained all of personal configuration like =emacs= , =vim= , =tmux= and etc..
 
