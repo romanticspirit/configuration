@@ -1,0 +1,8 @@
+#+TITLE: my enviroment configuration 
+[[file:img/flowers.img][flower]]
+#+OPTIONS: toc:2    
+* Description 
+contained all of personal configuration like =emacs= , =vim= , =tmux= and etc..
+
+* Note
+currently it only contain limited configuration just for [[http://org-mode.org][org-mode]] /leanring/
